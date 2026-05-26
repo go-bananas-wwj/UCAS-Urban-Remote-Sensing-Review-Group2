@@ -9,11 +9,15 @@
 - **单位**：中国科学院大学
 - **小组**：第二组
 
+## 相关资源
+
+- **论文原文PDF**：由于版权原因，30篇参考文献PDF未托管在GitHub。完整文献包请访问 👉 [ModelScope 数据集](https://modelscope.cn/datasets/WeijieWu/RS_building_road_seg_paper)
+
 ## 仓库结构
 
 ```
 .
-├── 01_文献材料/          # 参考文献（中文+英文PDF）
+├── 01_文献材料/          # 参考文献目录（PDF见ModelScope数据集）
 ├── 02_综述报告/          # 论文正文（Markdown + DOCX）
 │   ├── 遥感影像路网与建筑物提取方法综述.docx      # 最终版（格式标准化）
 │   ├── 综述正文.md
