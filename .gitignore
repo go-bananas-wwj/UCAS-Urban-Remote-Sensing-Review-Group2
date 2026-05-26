@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+
+# Temporary files
+*.tmp
+*.log
+
+# PDF extracted images (temporary, not final figures)
+05_图表素材/pdf_extracted_images/
+
+# Zip archives
+*.zip
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Original research papers (not uploaded)
+01_文献材料/
+综述说明/遥感学报综述文章/
+
+# Full text extractions (large temp files)
+06_精读文献/*/full_text.txt
+06_精读文献/*/extracted.txt
+06_精读文献/*/source_blocks.json
